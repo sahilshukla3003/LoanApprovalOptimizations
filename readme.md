@@ -27,7 +27,7 @@ This project uses a sampled subset of the accepted loans dataset for efficiency,
 ### Installation
 1. Clone the repository:
 
-git clone https://github.com/yourusername/loan-approval-optimization.git
+git clone https://github.com/sahilshukla3003/LoanApprovalOptimizations.git
 cd loan-approval-optimization
 
 
